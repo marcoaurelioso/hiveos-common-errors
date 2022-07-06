@@ -19,7 +19,7 @@
 - Nvidia: Increase the PL of the board a bit if you are limiting the gpu power with the PL
 - Nvidia: Check Core Clock OC
 
-**GPU DRIVER ERRORS, NO TEMPS**
+**GPU DRIVER ERRORS, NO TEMPS**\
 A very common problem that can occur and can be caused by:
 - The Riser USB cable may be faulty or poorly adjusted.
 - Poor contact of the gpu in the video card seated in the front of riser (it rises in front of the slot making poor contact)
@@ -31,7 +31,7 @@ A very common problem that can occur and can be caused by:
 - Check if the power cables are intact, if none are brittle, with a bent terminal
 - Correctly dimension the power supply
 
-**GPU TEMPERATURE 511 IS UNREAL, DRIVER ERROR**
+**GPU TEMPERATURE 511 IS UNREAL, DRIVER ERROR**\
 A very common problem that can occur and can be caused by:
 - Check the overclocking of the GPU(s) that have the error
 - Faulty or poorly adjusted USB riser cable
